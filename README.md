@@ -13,3 +13,20 @@ Locação de Carros
 *Link Github João Carlos: https://github.com/jcarlosvale
 
 *Link Aprendendo a Aprender: https://pt.coursera.org/learn/aprender
+
+*Link https://www.youtube.com/watch?v=0qxDU96J-do
+
+*Livro: Cracking the code interview
+
+*Curso System Design
+
+*Livro: "Clean Code" and Clean Architecture books
+
+*Coisas a estudar:
+	*Design Patterns - Avançado
+	*DDD
+	*Head First Design Patterns
+	*Adryev - "Gang of Four Design Patterns"
+	
+*Livro: "Aula nota 10"
+
