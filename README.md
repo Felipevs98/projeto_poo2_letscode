@@ -32,5 +32,7 @@ Locação de Carros
 
 *Link Lab Power BI: https://labclient.labondemand.com/LabClient/e4471fb7-60fc-406b-a8c3-9578e618ab6c?rc=10
 
+*Link de Best AI Image generators: https://rigorousthemes.com/blog/best-ai-image-generators/
+
 
 
