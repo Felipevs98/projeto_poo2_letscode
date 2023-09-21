@@ -36,5 +36,6 @@ Locação de Carros
 
 *Link de Best AI Image generators: https://rigorousthemes.com/blog/best-ai-image-generators/
 
+*Link Teste de aprendizado: https://vark-learn.com/the-vark-questionnaire/
 
 
