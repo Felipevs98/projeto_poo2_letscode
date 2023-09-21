@@ -32,6 +32,8 @@ Locação de Carros
 
 *Link Lab Power BI: https://labclient.labondemand.com/LabClient/e4471fb7-60fc-406b-a8c3-9578e618ab6c?rc=10
 
+*Link Building Bloks for Learning: https://turnaroundusa.org/wp-content/uploads/2016/03/Turnaround-for-Children-Building-Blocks-for-Learningx-2.pdf
+
 *Link de Best AI Image generators: https://rigorousthemes.com/blog/best-ai-image-generators/
 
 
